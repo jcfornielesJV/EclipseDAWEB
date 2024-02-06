@@ -91,4 +91,8 @@ public class Entrada implements Serializable {
 		this.pas = pas;
 	}
 
+	public void decirHola(){
+		System.out.println("Hola");
+	}
+
 }
